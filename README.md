@@ -6,7 +6,7 @@
 
 * 🎓 Técnico em Desenvolvimento de Sistemas pela ETE Porto Digital, Recife
 * 💼 Trabalho freenlacer com gestão de tráfego 
-* 🎯 Foco de aprendizagem nas áreas Backend e dados.
+* 🎯 Foco de aprendizagem nas áreas Backend e Dados.
 
 
 <br>
