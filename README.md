@@ -4,7 +4,7 @@
 
 <h3> 👩🏾‍💻  Sobre Mim </h3>
 
-* 🎓 Técnico em Desenvolvimento de Sistemas pela ETE Porto Digital, Recife
+* 🎓 Graduanda em Análise e Desenvolvimento de Sistemas e Pós-graduanda em Data Science
 * 💼 Trabalho freenlacer com gestão de tráfego 
 * 🎯 Foco de aprendizagem nas áreas Backend e Dados.
 
