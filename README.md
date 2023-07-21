@@ -5,7 +5,7 @@
 <h3> 👩🏾‍💻  Sobre Mim </h3>
 
 * 🎓 Graduanda em Análise e Desenvolvimento de Sistemas e Pós-graduanda em Data Science
-* 💼 Trabalho freenlacer com gestão de tráfego 
+* 💼 Trabalho freenlacer com gestão de tráfego e anúncios Online.
 * 🎯 Foco de aprendizagem nas áreas Backend e Dados.
 
 
